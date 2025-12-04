@@ -20,10 +20,24 @@ Analise de dados de restaurantes do estado de SP, feito no EXCEL.
  python <img width="1297" height="725" alt="image" src="https://github.com/user-attachments/assets/9916410f-c851-40ff-a6b7-dc2a0a68ff69" />
 
 
-## Atividade 4 - 
+## Atividade 4 - Power Bi com bandeiras 
+
+link BI: https://app.powerbi.com/view?r=eyJrIjoiNTU5NDllZjEtMTU4Zi00Y2U5LTllNDAtMTdlZmIxMDU4N2JmIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
+
+<img width="1607" height="810" alt="image" src="https://github.com/user-attachments/assets/4cde3a70-ad6e-412e-825f-078572d24567" />
 
 
 ## Atividade 5 - 
 
 
 ## Prova
+### planilha Excel
+https://github.com/user-attachments/assets/167daec6-8264-40c1-a676-f5662b3de72c
+
+##### Power Bi
+https://github.com/user-attachments/assets/95d4c19e-1323-4c6c-b2f2-3f7a779d0101
+
+
+
+
+
