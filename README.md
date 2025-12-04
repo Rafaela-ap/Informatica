@@ -38,6 +38,15 @@ https://github.com/user-attachments/assets/167daec6-8264-40c1-a676-f5662b3de72c
 https://github.com/user-attachments/assets/95d4c19e-1323-4c6c-b2f2-3f7a779d0101
 
 
+#### API
+
+#### Python
+
+Untitled14.ipynb
+
+
+https://github.com/user-attachments/assets/627cace6-b370-462f-b05c-a7c38b3d1660
+
 
 
 
