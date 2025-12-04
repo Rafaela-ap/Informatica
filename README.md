@@ -27,8 +27,6 @@ link BI: https://app.powerbi.com/view?r=eyJrIjoiNTU5NDllZjEtMTU4Zi00Y2U5LTllNDAt
 <img width="1607" height="810" alt="image" src="https://github.com/user-attachments/assets/4cde3a70-ad6e-412e-825f-078572d24567" />
 
 
-## Atividade 5 - 
-
 
 ## Prova
 ### planilha Excel
