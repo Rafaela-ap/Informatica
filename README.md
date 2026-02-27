@@ -62,7 +62,7 @@ https://github.com/user-attachments/assets/09945556-e9fd-4d9a-b317-e63f97d4adc7
 
 
 
- #####  Atividade DP 2026 INFORMATICA 
+ ## Atividade DP 2026 INFORMATICA 
 
 
 
@@ -71,7 +71,7 @@ https://github.com/user-attachments/assets/09945556-e9fd-4d9a-b317-e63f97d4adc7
 
 
 
-######################## 1- ATIVIDADE APRESENTAÇÃO 
+## ATIVIDADE 1- APRESENTAÇÃO 2026
 
 
 
